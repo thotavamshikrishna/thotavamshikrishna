@@ -10,7 +10,7 @@
 - 🔐 Security: Firewalls, Intrusion Prevention, Password Compliance
 - 📡 Tools: Git, Postman, MySQL, Visual Studio
 
-🎓 Currently pursuing my Master’s in Applied Computer Science at Southeast Missouri State University.
+🎓 Graduated with a Master’s in Applied Computer Science at Southeast Missouri State University.
 
 ---
 
